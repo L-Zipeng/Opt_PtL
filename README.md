@@ -18,7 +18,7 @@ synthetic kerosene, and Fischer-Tropsch synthetic kerosene.
 ## Relationship to Opt_Ammonia
 
 This PtL framework is an extension of, and builds on, Tom Terlouw's
-`Opt_Ammonia` framework for decentralized low-carbon ammonia production. The
+`Opt_Ammonia` framework for decentralized low-carbon ammonia production https://github.com/tomterlouw/Opt_Ammonia. The
 general workflow structure, geospatial preprocessing logic, hourly energy-system
 optimization approach, techno-economic assessment structure, and Brightway-based
 life cycle assessment workflow were adapted from that earlier open-source work.
